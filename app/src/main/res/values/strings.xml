@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">jokenpô</string>
+    <string name="text_instructions">Escolha uma opção abaixo</string>
+    <string name="label_pontuacao_jogador">Jogador</string>
+    <string name="label_pontuacao_maquina">Maquina</string>
+    <string name="status_game">Start</string>
+</resources>
